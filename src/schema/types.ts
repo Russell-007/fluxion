@@ -9,6 +9,7 @@ export interface BaseNode {
 }
 
 export type UISchemaNode = BaseNode
+
 export interface PageSchema {
     version: number
     nodes: UISchemaNode[]

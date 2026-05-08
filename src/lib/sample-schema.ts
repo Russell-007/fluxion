@@ -25,6 +25,7 @@ export const sampleSchema: PageSchema = {
             title: "AI Generated",
             description:
               "Generate interfaces instantly",
+            size: "lg",
           },
 
           {
